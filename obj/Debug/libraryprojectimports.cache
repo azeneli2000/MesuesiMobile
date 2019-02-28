@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Debug\__library_projects__\AndHUD\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Debug\__library_projects__\Plugin.Connectivity\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Debug\__library_projects__\Plugin.Settings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Debug\__library_projects__\RestSharp\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\AndHUD\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Connectivity\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Settings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\RestSharp\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Debug\__library_projects__\AndHUD.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Debug\__library_projects__\Plugin.Connectivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Debug\__library_projects__\Plugin.Settings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Debug\__library_projects__\RestSharp.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

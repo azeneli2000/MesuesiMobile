@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.mesuesinotat.mesuesinotat" android:versionCode="5" android:versionName="5.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCOUNT_MANAGER" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="mesuesinotat" android:icon="@drawable/iconandi" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:label="HedhjeNotash" android:name="md54852b34f058761177f88eefeb1d77412.HedhjeNotash" />
+    <activity android:label="Lenda" android:name="md54852b34f058761177f88eefeb1d77412.Lenda" />
+    <activity android:icon="@drawable/iconandi" android:label="Mesuesi" android:name="md54852b34f058761177f88eefeb1d77412.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Nxenesit" android:name="md54852b34f058761177f88eefeb1d77412.Nxenesit" />
+    <receiver android:enabled="true" android:label="Connectivity Plugin Broadcast Receiver" android:name="md55acd92097db1193d6a1e7330cb14252a.ConnectivityChangeBroadcastReceiver" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.mesuesinotat.mesuesinotat.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

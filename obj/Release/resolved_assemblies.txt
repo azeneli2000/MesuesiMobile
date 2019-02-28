@@ -1,0 +1,16 @@
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\App7.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\AndHUD.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\Plugin.Connectivity.Abstractions.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\Plugin.Connectivity.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\Plugin.Settings.Abstractions.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\Plugin.Settings.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\RestSharp.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\Java.Interop.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\mscorlib.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\System.Core.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\System.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\System.Xml.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\System.Xml.Linq.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Andi\Documents\Visual Studio 2015\Projects\App7\App7\obj\Release\android\assets\Mono.Security.dll

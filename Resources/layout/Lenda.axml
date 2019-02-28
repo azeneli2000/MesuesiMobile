@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/tableLayout1"
+    p1:background="@drawable/background1">
+    <TableRow
+        p1:id="@+id/tableRow4">
+        <TextView
+            p1:text="Shkolla :"
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_column="0"
+            p1:id="@+id/textView14"
+            p1:layout_marginBottom="10dp" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow1">
+        <TextView
+            p1:text="Large Text"
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_column="0"
+            p1:id="@+id/textView54"
+            p1:layout_marginRight="77.0dp"
+            p1:layout_marginBottom="10dp" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow2">
+        <TextView
+            p1:text="Klasa"
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_column="0"
+            p1:id="@+id/textView10"
+            p1:layout_marginBottom="10dp" />
+    </TableRow>
+    <TableRow
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:id="@+id/tableRow6">
+        <TableLayout
+            p1:minWidth="25px"
+            p1:minHeight="25px"
+            p1:layout_column="0"
+            p1:id="@+id/tableLayout2">
+            <TableRow
+                p1:id="@+id/tableRow13">
+                <Spinner
+                    p1:layout_column="0"
+                    p1:id="@+id/spinner1"
+                    p1:layout_marginRight="0.0dp"
+                    p1:layout_marginBottom="10dp" />
+                <Spinner
+                    p1:layout_column="1"
+                    p1:id="@+id/spinner2"
+                    p1:layout_width="wrap_content"
+                    p1:layout_marginBottom="10dp" />
+            </TableRow>
+        </TableLayout>
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow7">
+        <TextView
+            p1:text="Lenda"
+            p1:textAppearance="?android:attr/textAppearanceLarge"
+            p1:layout_column="0"
+            p1:id="@+id/textView36"
+            p1:layout_marginBottom="10dp" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow8"
+        p1:layout_marginBottom="10dp">
+        <Spinner
+            p1:layout_column="0"
+            p1:id="@+id/spinner3"
+            p1:layout_width="wrap_content"
+            p1:layout_marginBottom="15dp" />
+    </TableRow>
+    <TableRow
+        p1:id="@+id/tableRow5">
+        <Button
+            p1:background="@drawable/butonikuq"
+            p1:text="Vazhdo"
+            p1:layout_column="0"
+            p1:id="@+id/vazhdo"
+            style="@style/button_text" />
+    </TableRow>
+</TableLayout>

@@ -1,0 +1,16 @@
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\App7.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\AndHUD.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\Java.Interop.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\Mono.Android.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\mscorlib.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\Plugin.Connectivity.Abstractions.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\Plugin.Connectivity.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\Plugin.Settings.Abstractions.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\Plugin.Settings.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\RestSharp.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\System.Core.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\System.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\System.Xml.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\System.Xml.Linq.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\System.Runtime.Serialization.dll
+E:\backup\vsProjects\App7\App7\obj\Release\81\android\assets\Mono.Security.dll
